@@ -40,7 +40,7 @@
 	<table width="70%" border="1">
 		<tr>
 			<td>
-				個人網頁：<a href="C:\aboutme\aboutme.html">C:\aboutme\aboutme.html</a><br>
+				個人網頁：<a href="">C:\aboutme\aboutme.html</a><br>
 				FB：<a href="https://www.facebook.com/" target="_blank">https://www.facebook.com/</a><br>
 				Tel: <a href="tel:0426328001">04-26328001</a><br>
 				E-Mail: <a href="mailto:s1072768@pu.edu.tw">s1072768@pu.edu.tw</a><br>
@@ -59,6 +59,7 @@
 			</td>
 		</tr>
 	</table>
+	<br>
 	<?php echo date("Y-m-d") ?>
 </body>
 </html>
